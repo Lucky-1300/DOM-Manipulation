@@ -37,3 +37,16 @@
 //     h1.style.color = "white"
 //     h1.innerHTML = "L love you Lucky Roy"
 // })
+
+// let box = document.querySelector("p")
+// let btn = document.getElementById("btn")
+// btn.addEventListener('click',()=>{
+//     box.style.backgroundColor = "yellow"
+//     btn.innerHTML = "On"
+//     box.style.scale = "1"
+    
+// })
+
+
+
+
